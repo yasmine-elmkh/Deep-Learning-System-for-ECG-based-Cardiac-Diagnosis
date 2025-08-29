@@ -224,6 +224,4 @@ Déploiement sur le cloud pour un accès en ligne et suivi en temps réel.
 
 Auteurs
 
-Yasmine El Mkhantar
-Zineb Benchekroun
-Sara El Mekkaoui
+Yasmine El Mkhantar   |   Zineb Benchekroun   |   Sara El Mekkaoui
