@@ -109,9 +109,7 @@ Deployment on cloud for online access and real-time monitoring.
 
 Authors
 
-Yasmine El Mkhantar
-Zineb Benchekroun
-Sara El Mekkaoui
+Yasmine El Mkhantar   |   Zineb Benchekroun   |   Sara El Mekkaoui
 
 ---------------------------------------Version Française-----------------------------------------------
 # Système Deep Learning pour le Diagnostic Cardiaque à partir d’ECG
